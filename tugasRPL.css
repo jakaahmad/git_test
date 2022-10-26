@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://png.pngtree.com/background/20210711/original/pngtree-electronic-technology-website-texture-background-banner-picture-image_1065222.jpg");
+}
+
+.kotak {
+    max-width: fit-content;
+    background-color: gainsboro;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    font-size: 16px;
+
+}
